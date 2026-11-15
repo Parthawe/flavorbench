@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[9850,["425","static/chunks/425-667135e4242fe973.js","391","static/chunks/391-b93797c4b0d4f534.js","177","static/chunks/app/layout-a115e6761df531c6.js"],"CollectionProvider"]
+3:I[1588,["425","static/chunks/425-667135e4242fe973.js","391","static/chunks/391-b93797c4b0d4f534.js","177","static/chunks/app/layout-a115e6761df531c6.js"],"default"]
+4:I[6944,[],""]
+5:I[6230,[],""]
+6:I[6765,[],"ClientPageRoot"]
+7:I[3178,["425","static/chunks/425-667135e4242fe973.js","391","static/chunks/391-b93797c4b0d4f534.js","927","static/chunks/app/food/saved/page-aa8b4646cd8400e7.js"],"default"]
+a:I[7501,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+e:I[7501,[],"ViewportBoundary"]
+10:I[7501,[],"MetadataBoundary"]
+12:I[2812,[],"default",1]
+:HL["/flavorbench/_next/static/css/deabd29ec9993562.css","style"]
+:HL["/flavorbench/_next/static/css/2571f279d5f79a45.css","style"]
+:HL["/flavorbench/_next/static/css/4e4adcdf1b4b5325.css","style"]
+d:X
+0:{"P":null,"c":["","food","saved",""],"q":"","i":false,"f":[[["",{"children":["food",{"children":["saved",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/flavorbench/_next/static/css/deabd29ec9993562.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/flavorbench/_next/static/css/2571f279d5f79a45.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page empty-state","children":[["$","h1",null,{"children":"This page is not in the cookbook."}],["$","p",null,{"children":"Browse the model recipes or source library to continue."}],["$","a",null,{"className":"primary","href":"/flavorbench/recipe-book/","children":"Open recipe book"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L6",null,{"Component":"$7","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@8","$@9"]}}],[["$","link","0",{"rel":"stylesheet","href":"/flavorbench/_next/static/css/4e4adcdf1b4b5325.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,null]},null,false,"$d"]},null,false,"$d"]},null,false,null],["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L11"}]}]}],null]}],false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ipInsg0eeAu6PIKHzQX5Z"}
+d:C
+8:{}
+9:"$0:f:0:1:1:children:1:children:1:children:0:props:children:0:props:serverProvidedParams:params"
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:I[5400,[],"IconMark"]
+c:null
+11:[["$","title","0",{"children":"FlavorBench | The model kitchen"}],["$","meta","1",{"name":"description","content":"Explore how AI models are made through an interactive 3D kitchen, symbolic ingredients and source-based recipe notes."}],["$","link","2",{"rel":"shortcut icon","href":"/flavorbench/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/flavorbench/favicon.svg"}],["$","$L13","4",{}]]
