@@ -1,0 +1,3 @@
+:HL["/flavorbench/_next/static/css/deabd29ec9993562.css","style"]
+:HL["/flavorbench/_next/static/css/2571f279d5f79a45.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"recipe-book","param":null,"prefetchHints":4192,"slots":{"children":{"name":"model","param":{"type":"d","key":"claude","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"ccJfVg6FxnenWLVFJ511y"}
